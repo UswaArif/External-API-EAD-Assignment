@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #sports-data {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    margin: 1rem auto;
+    max-width: 500px;
+  }
+  
